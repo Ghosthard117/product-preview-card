@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://your-solution-url.com)
-- Live Site URL: [Here](https://your-live-site-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/product-preview-card-component-F7OEHBLBM8)
+- Live Site URL: [Here](https://ghosthard117.github.io/product-preview-card/)
 
 ## My process
 
